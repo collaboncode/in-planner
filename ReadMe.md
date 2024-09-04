@@ -11,7 +11,8 @@
 
 <p align="center"><ins>September Planning</ins></p>
 
-| Month     | Start Date | Type    | Task                                          | Estimate | Actual | Last Working Date | Notes/Link                                                            |
-|-----------|------------|---------|-----------------------------------------------|----------|--------|-------------------|-----------------------------------------------------------------------|
-| September | 2nd        | Spike   | Spring Boot InMemory authentication continued | 2        | ???    | ???               | [issue-3](https://github.com/collaboncode/learning-platform/issues/3) |
-|           |            |         |                                               |          |        |                   |                                                                       |
+| Month     | Start Date | Type  | Task                                              | Estimate | Actual | Last Working Date | Notes/Link                                                            |
+|-----------|------------|-------|---------------------------------------------------|----------|--------|-------------------|-----------------------------------------------------------------------|
+| September | 2nd        | Spike | Spring Boot InMemory authentication continued     | 2        | 2      | 4th               | [issue-3](https://github.com/collaboncode/learning-platform/issues/3) |
+| September | 4th        | Spike | Add html pages to spring boot with authentication | ???      |        |                   | [issue-5](https://github.com/collaboncode/learning-platform/issues/5)                                                               |
+|           |            |       |                                                   |          |        |                   |                                                                       |
