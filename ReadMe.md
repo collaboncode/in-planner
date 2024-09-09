@@ -11,8 +11,9 @@
 
 <p align="center"><ins>September Planning</ins></p>
 
-| Month     | Start Date | Type  | Task                                              | Estimate | Actual | Last Working Date | Notes/Link                                                            |
-|-----------|------------|-------|---------------------------------------------------|----------|--------|-------------------|-----------------------------------------------------------------------|
-| September | 2nd        | Spike | Spring Boot InMemory authentication continued     | 2        | 3      | 4th               | [issue-3](https://github.com/collaboncode/learning-platform/issues/3) |
-| September | 4th        | Spike | Add html pages to spring boot with authentication | 1        |        |                   | [issue-5](https://github.com/collaboncode/learning-platform/issues/5) |
-|           |            |       |                                                   |          |        |                   |                                                                       |
+| Month     | Start Date | Type    | Task                                              | Estimate | Actual | Last Working Date | Notes/Link                                                            |
+|-----------|------------|---------|---------------------------------------------------|----------|--------|-------------------|-----------------------------------------------------------------------|
+| September | 2nd        | Spike   | -                                                 | -        | 3      | 4th               | [issue-3](https://github.com/collaboncode/learning-platform/issues/3) |
+| September | 4th        | Spike   | Add html pages to spring boot with authentication | 1        | 3      | 6th               | [issue-5](https://github.com/collaboncode/learning-platform/issues/5) |
+| September | 7th-8th    | weekend |                                                   | -        | -      | -                 | -                                                                     |
+| September | 9th        | Spike   | -                                                 | -        | ???    |                   | [issue-5](https://github.com/collaboncode/learning-platform/issues/5) |
