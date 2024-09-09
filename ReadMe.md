@@ -9,7 +9,6 @@
 | ~~College Exams~~                                                                                                         | ~~off~~ | -        | ~~30th Aug~~ | ~~1st Sept~~ | -      |
 |                                                                                                                           |         |          |              |              |        |
 |                                                                                                                           |         |          |              |              |        |
-|                                                                                                                           |         |          |              |              |        |
 | [issue 3](https://github.com/collaboncode/learning-platform/issues/3)                                                     | -       | -        | 2nd Sept     | 4th Sept     | 3      |
 | [issue 5 - Add html pages to spring boot with authentication](https://github.com/collaboncode/learning-platform/issues/5) | spike   | 1        | 4th Sept     | 6th Sept     | 3      |
 | ~~weekend~~                                                                                                               | ~~off~~ | -        | ~~7th-Sept~~ | ~~8th Sept~~ | -      |
