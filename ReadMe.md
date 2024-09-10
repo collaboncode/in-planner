@@ -14,7 +14,7 @@
 |                                                                                                                           |         |          |              |              |        |
 | [issue 5 - Add html pages to spring boot with authentication](https://github.com/collaboncode/learning-platform/issues/5) | spike   | 1        | 4th Sept     | 6th Sept     | 3      |
 | ~~weekend~~                                                                                                               | ~~off~~ | -        | ~~7th-Sept~~ | ~~8th Sept~~ | -      |
-| [issue 5](https://github.com/collaboncode/learning-platform/issues/5)                                                     | -       | -        | 9th Sept     | 10th Sept    | 5      |
+| [issue 5](https://github.com/collaboncode/learning-platform/issues/5)                                                     | -       | -        | 9th Sept     | 9th Sept     | 1      |
 |                                                                                                                           |         |          |              |              |        |
 | [issue 9 - extract ui in react app from spring boot](https://github.com/collaboncode/learning-platform/issues/9)          | spike   | ???      | 10th Sept    | ???          | ???    |
 |                                                                                                                           |         |          |              |              |        |
