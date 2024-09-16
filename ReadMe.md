@@ -4,6 +4,7 @@
 |---------------------------------------------------------------------------------------------------------------------------|---------|----------|---------------|---------------|--------|
 | Learn Git And Github                                                                                                      | spike   | 1        | 22nd Aug      | 23rd Aug      | 2      |
 | ~~weekend~~                                                                                                               | ~~off~~ | -        | ~~24th-Aug~~  | ~~25th Aug~~  | -      |
+|                                                                                                                           |         |          |               |               |        |
 | [issue 1 - Learn and practice markdown](https://github.com/collaboncode/learning-platform/issues/1)                       | spike   | 1        | 26th Aug      | 26th Aug      | 1      |
 |                                                                                                                           |         |          |               |               |        |
 | [issue 3 - Spring Boot InMemory authentication](https://github.com/collaboncode/learning-platform/issues/3)               | spike   | 2        | 27th Aug      | 29th Aug      | 3      |
