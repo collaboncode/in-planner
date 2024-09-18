@@ -18,5 +18,5 @@
 | [issue 9 - extract ui in react app from spring boot](https://github.com/collaboncode/learning-platform/issues/9)          | spike   | 4        | 10th Sept     | 13th Sept     | 4      |
 | ~~weekend~~                                                                                                               | ~~off~~ | -        | ~~14th-Sept~~ | ~~15th Sept~~ | -      |
 | ~~not feeling well~~                                                                                                      | ~~off~~ | -        | ~~16th-Sept~~ | ~~16th Sept~~ | -      |
-| [issue 9](https://github.com/collaboncode/learning-platform/issues/9)                                                     | spike   |          | 17th Sept     | `9th Sept     | 3      |
+| [issue 9](https://github.com/collaboncode/learning-platform/issues/9)                                                     | spike   |          | 17th Sept     | 19th Sept     | 3      |
 |                                                                                                                           |         |          |               |               |        |
