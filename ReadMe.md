@@ -20,4 +20,7 @@
 | ~~not feeling well~~                                                                                                      | ~~off~~ | -        | ~~16th-Sept~~ | ~~16th Sept~~ | -      |
 | [issue 9](https://github.com/collaboncode/learning-platform/issues/9)                                                     | spike   |          | 17th Sept     | 20th Sept     | 4      |
 | ~~weekend~~                                                                                                               | ~~off~~ | -        | ~~21th-Sept~~ | ~~22th Sept~~ | -      |
+| [issue 9](https://github.com/collaboncode/learning-platform/issues/9)                                                     | spike   |          | 23rd Sept     | 24th Sept     | 2      |
+|                                                                                                                           |         |          |               |               |        |
+| [issue 11 - move db to docker](https://github.com/collaboncode/learning-platform/issues/11)                               | spike   | ???      | 25hh Sept     | ???           | ???    |
 |                                                                                                                           |         |          |               |               |        |
