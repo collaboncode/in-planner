@@ -22,5 +22,8 @@
 | ~~weekend~~                                                                                                               | ~~off~~ | -        | ~~21th-Sept~~ | ~~22th Sept~~ | -      |
 | [issue 9](https://github.com/collaboncode/learning-platform/issues/9)                                                     | spike   |          | 23rd Sept     | 24th Sept     | 2      |
 |                                                                                                                           |         |          |               |               |        |
-| [issue 11 - move db to docker](https://github.com/collaboncode/learning-platform/issues/11)                               | spike   | ???      | 25hh Sept     | ???           | ???    |
+| [issue 11 - move db to docker](https://github.com/collaboncode/learning-platform/issues/11)                               | spike   | 4        | 25th Sept     | 27th Sept     | 4      |
+| ~~weekend~~                                                                                                               | ~~off~~ | -        | ~~28th-Sept~~ | ~~29th Sept~~ | -      |
+| ~~College Project Submission~~                                                                                            | ~~off~~ | -        | ~~30th Sept~~ | ~~30th Sept~~ | -      |
+| [issue 11](https://github.com/collaboncode/learning-platform/issues/11)                                                   | spike   |          | 1st Oct       | ???           | ???    |
 |                                                                                                                           |         |          |               |               |        |
