@@ -25,5 +25,10 @@
 | [issue 11 - move db to docker](https://github.com/collaboncode/learning-platform/issues/11)                               | spike   | 4        | 25th Sept     | 27th Sept     | 4      |
 | ~~weekend~~                                                                                                               | ~~off~~ | -        | ~~28th-Sept~~ | ~~29th Sept~~ | -      |
 | ~~College Project Submission~~                                                                                            | ~~off~~ | -        | ~~30th Sept~~ | ~~30th Sept~~ | -      |
-| [issue 11](https://github.com/collaboncode/learning-platform/issues/11)                                                   | spike   |          | 1st Oct       | ???           | ???    |
+| [issue 11](https://github.com/collaboncode/learning-platform/issues/11)                                                   | spike   |          | 1st Oct       | 1st Oct       | 1      |
+| ~~Public Holiday~~                                                                                                        | ~~off~~ | -        | ~~2nd Oct~~   | ~~2nd Oct~~   | -      |
+| [issue 11](https://github.com/collaboncode/learning-platform/issues/11)                                                   | spike   |          | 3rd Oct       | 3rd Oct       | 1      |
+| ~~college placement drive~~                                                                                               | ~~off~~ |          | ~~4th Oct~~   | ~~4th Oct~~   | -      |
+| ~~weekend~~                                                                                                               | ~~off~~ | -        | ~~5th-Oct~~   | ~~6th Oct~~   | -      |
+| ~~TCS exam preparation~~                                                                                                  | ~~off~~ |          | ~~7th Oct~~   | ~~10th Oct~~  | -      |
 |                                                                                                                           |         |          |               |               |        |
