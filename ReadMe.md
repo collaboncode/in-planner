@@ -32,3 +32,9 @@
 | ~~weekend~~                                                                                                               | ~~off~~ | -        | ~~5th-Oct~~   | ~~6th Oct~~   | -      |
 | ~~TCS exam preparation~~                                                                                                  | ~~off~~ |          | ~~7th Oct~~   | ~~10th Oct~~  | -      |
 |                                                                                                                           |         |          |               |               |        |
+| [issue 13 - spring boot planning](https://github.com/collaboncode/learning-platform/issues/11)                            | project | 4        | 11th Oct      | 11th Oct      | 1      |
+| ~~weekend~~                                                                                                               | ~~off~~ | -        | ~~12th-Oct~~  | ~~13th Oct~~  | -      |
+| [issue 13](https://github.com/collaboncode/learning-platform/issues/11)                                                   | project |          | 14th Oct      | 14th Oct      | 1      |
+| [issue 13](https://github.com/collaboncode/learning-platform/issues/11)                                                   | project |          | 15th Oct      | 15th Oct      | 1      |
+| ~~college submission~~                                                                                                    | ~~off~~ |          | ~~16th Oct~~  | ~~16th Oct~~  | -      |
+|                                                                                                                           |         |          |               |               |        |
