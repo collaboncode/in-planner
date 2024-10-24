@@ -32,13 +32,13 @@
 | ~~weekend~~                                                                                                               | ~~off~~ | -        | ~~5th-Oct~~   | ~~6th Oct~~   | -      |
 | ~~TCS exam preparation~~                                                                                                  | ~~off~~ |          | ~~7th Oct~~   | ~~10th Oct~~  | -      |
 |                                                                                                                           |         |          |               |               |        |
-| [issue 13 - spring boot planning](https://github.com/collaboncode/learning-platform/issues/11)                            | project | 4        | 11th Oct      | 11th Oct      | 1      |
+| [issue 2 - spring controller introduction](https://github.com/collaboncode/ya-ri-part/issues/2)                           | project | 4        | 11th Oct      | 11th Oct      | 1      |
 | ~~weekend~~                                                                                                               | ~~off~~ | -        | ~~12th-Oct~~  | ~~13th Oct~~  | -      |
-| [issue 13](https://github.com/collaboncode/learning-platform/issues/11)                                                   | project |          | 14th Oct      | 14th Oct      | 1      |
-| [issue 13](https://github.com/collaboncode/learning-platform/issues/11)                                                   | project |          | 15th Oct      | 15th Oct      | 1      |
+| [issue 2](https://github.com/collaboncode/ya-ri-part/issues/2)                                                            | project |          | 14th Oct      | 14th Oct      | 1      |
+| [issue 2](https://github.com/collaboncode/ya-ri-part/issues/2)                                                            | project |          | 15th Oct      | 15th Oct      | 1      |
 | ~~college submission - as discussed over phone, no whatsapp communication~~                                               | ~~off~~ |          | ~~16th Oct~~  | ~~16th Oct~~  | -      |
 |                                                                                                                           |         |          |               |               |        |
-| [issue 2 - spring controller introduction](https://github.com/collaboncode/ya-ri-part/issues/2)                           | project |          | 17th Oct      | 17th Oct      | 1      |
+| [issue 2](https://github.com/collaboncode/ya-ri-part/issues/2)                                                            | project |          | 17th Oct      | 17th Oct      | 1      |
 | ~~viva and exams~~                                                                                                        | ~~off~~ |          | ~~18th Oct~~  | ~~23rd Oct~~  | -      |
 | [issue 2](https://github.com/collaboncode/ya-ri-part/issues/2)                                                            | project |          | 24th Oct      | ???           | ???    |
 |                                                                                                                           |         |          |               |               |        |
