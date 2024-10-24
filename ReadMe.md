@@ -37,7 +37,6 @@
 | [issue 2](https://github.com/collaboncode/ya-ri-part/issues/2)                                                            | project |          | 14th Oct      | 14th Oct      | 1      |
 | [issue 2](https://github.com/collaboncode/ya-ri-part/issues/2)                                                            | project |          | 15th Oct      | 15th Oct      | 1      |
 | ~~college submission - as discussed over phone, no whatsapp communication~~                                               | ~~off~~ |          | ~~16th Oct~~  | ~~16th Oct~~  | -      |
-|                                                                                                                           |         |          |               |               |        |
 | [issue 2](https://github.com/collaboncode/ya-ri-part/issues/2)                                                            | project |          | 17th Oct      | 17th Oct      | 1      |
 | ~~viva and exams~~                                                                                                        | ~~off~~ |          | ~~18th Oct~~  | ~~23rd Oct~~  | -      |
 | [issue 2](https://github.com/collaboncode/ya-ri-part/issues/2)                                                            | project |          | 24th Oct      | ???           | ???    |
