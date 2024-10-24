@@ -36,7 +36,7 @@
 | ~~weekend~~                                                                                                               | ~~off~~ | -        | ~~12th-Oct~~  | ~~13th Oct~~  | -      |
 | [issue 13](https://github.com/collaboncode/learning-platform/issues/11)                                                   | project |          | 14th Oct      | 14th Oct      | 1      |
 | [issue 13](https://github.com/collaboncode/learning-platform/issues/11)                                                   | project |          | 15th Oct      | 15th Oct      | 1      |
-| ~~college submission~~                                                                                                    | ~~off~~ |          | ~~16th Oct~~  | ~~16th Oct~~  | -      |
+| ~~college submission - as discussed over phone, no whatsapp communication~~                                               | ~~off~~ |          | ~~16th Oct~~  | ~~16th Oct~~  | -      |
 |                                                                                                                           |         |          |               |               |        |
 | [issue 2 - spring controller introduction](https://github.com/collaboncode/ya-ri-part/issues/2)                           | project |          | 17th Oct      | 17th Oct      | 1      |
 | ~~viva and exams~~                                                                                                        | ~~off~~ |          | ~~18th Oct~~  | ~~23rd Oct~~  | -      |
