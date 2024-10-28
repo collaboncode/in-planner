@@ -39,5 +39,7 @@
 | ~~college submission - as discussed over phone, no whatsapp communication~~                                               | ~~off~~ |          | ~~16th Oct~~  | ~~16th Oct~~  | -      |
 | [YRP 2](https://github.com/collaboncode/ya-ri-part/issues/2)                                                              | project |          | 17th Oct      | 17th Oct      | 1      |
 | ~~viva and exams~~                                                                                                        | ~~off~~ |          | ~~18th Oct~~  | ~~23rd Oct~~  | -      |
-| [YRP 2](https://github.com/collaboncode/ya-ri-part/issues/2)                                                              | project |          | 24th Oct      | ???           | ???    |
+| [YRP 2](https://github.com/collaboncode/ya-ri-part/issues/2)                                                              | project |          | 24th Oct      | 25th Oct      | 2      |
+| ~~weekend~~                                                                                                               | ~~off~~ | -        | ~~26th-Oct~~  | ~~27th Oct~~  | -      |
+| ~~second round interview~~                                                                                                | ~~off~~ |          | ~~28th Oct~~  | ~~28th Oct~~  | -      |
 |                                                                                                                           |         |          |               |               |        |
