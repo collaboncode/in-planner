@@ -44,6 +44,8 @@
 | ~~second round interview~~                                                                                                | ~~off~~ |          | ~~28th Oct~~  | ~~28th Oct~~  | -      |
 | [YRP 2](https://github.com/collaboncode/ya-ri-part/issues/2)                                                              | project |          | 29th Oct      | 30th Oct      | 2      |
 | ~~DIWALI~~                                                                                                                | ~~off~~ |          | ~~31st Oct~~  | ~~31st Oct~~  | -      |
-| [YRP 2](https://github.com/collaboncode/ya-ri-part/issues/2)                                                              | project |          | 1st Nov       | 1st Nov       | ???    |
+| [YRP 2](https://github.com/collaboncode/ya-ri-part/issues/2)                                                              | project |          | 1st Nov       | 1st Nov       | 1      |
 | ~~weekend~~                                                                                                               | ~~off~~ | -        | ~~2nd-Nov~~   | ~~3rd Nov~~   | -      |
+| [YRP 2](https://github.com/collaboncode/ya-ri-part/issues/2)                                                              | project |          | 4th Nov       | 4th Nov       | 1      |
+| ~~coding interview~~                                                                                                      | ~~off~~ |          | ~~5th Nov~~   | ~~6th Nov~~   | -      |
 |                                                                                                                           |         |          |               |               |        |
