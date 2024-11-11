@@ -47,5 +47,10 @@
 | [YRP 2](https://github.com/collaboncode/ya-ri-part/issues/2)                                                              | project |          | 1st Nov       | 1st Nov       | 1      |
 | ~~weekend~~                                                                                                               | ~~off~~ | -        | ~~2nd-Nov~~   | ~~3rd Nov~~   | -      |
 | [YRP 2](https://github.com/collaboncode/ya-ri-part/issues/2)                                                              | project |          | 4th Nov       | 4th Nov       | 1      |
-| ~~coding interview~~                                                                                                      | ~~off~~ |          | ~~5th Nov~~   | ~~6th Nov~~   | -      |
+| ~~coding interview (updates received 5th night on whatsapp)~~                                                             | ~~off~~ |          | ~~5th Nov~~   | ~~5th Nov~~   | -      |
+| [YRP 2](https://github.com/collaboncode/ya-ri-part/issues/2)                                                              | project |          | 6th Nov       | 7th Nov       | 2      |
+|                                                                                                                           |         |          |               |               |        |
+| [LP 14](https://github.com/collaboncode/learning-platform/issues/14)                                                      | spike   |          | 8th Nov       | 9th Nov       | 1      |
+| ~~weekend~~                                                                                                               | ~~off~~ | -        | ~~9th-Nov~~   | ~~10th Nov~~  | -      |
+| ~~coding interview~~                                                                                                      | ~~off~~ |          | ~~11th Nov~~  | ~~11th Nov~~  | -      |
 |                                                                                                                           |         |          |               |               |        |
